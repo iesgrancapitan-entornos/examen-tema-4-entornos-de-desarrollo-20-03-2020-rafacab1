@@ -17,7 +17,7 @@ public class Perro {
 	}
 
   /**
-   * Método ladrar, hace que Perro ladre
+   * Método ladrar, para que Perro ladre
    * 
    */
 	void ladrar() {
