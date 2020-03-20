@@ -43,7 +43,7 @@ public class Coche extends Vehiculo {
 	/**
 	 * Getter de cilindrada
 	 * 
-	 * @return
+	 * @return cilindrada
 	 */
 	public int getCilindrada() {
 		return cilindrada;
