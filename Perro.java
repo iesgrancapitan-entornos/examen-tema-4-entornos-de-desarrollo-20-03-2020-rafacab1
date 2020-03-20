@@ -1,12 +1,15 @@
 
 public class Perro {
 
-		protected Perro() {
+		private String ladra;
+
+    protected Perro() {
 				
 	}
 
 	void ladrar() {
-		System.out.println("Guau");
+		ladra = "Guau";
+    System.out.println(ladra);
 	}
 
 }
